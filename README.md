@@ -3,7 +3,7 @@
 1. Task https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio-part1.md
 2. Screenshot:
 ![portfolio](https://user-images.githubusercontent.com/82232416/148863912-478fb1ad-adb0-4be2-82bf-39a262778f06.jpg)
-3. Deploy: https://rolling-scopes-school.github.io/junproger-JSFEPRESCHOOL/portfolio/index.html
+3. Deploy: https://junproger.github.io/landing/
 4. Done 11.01.2022 / Deadline 18.01.2022
 5. Score: 100 / 100
  - [x] Вёрстка валидная +10
@@ -17,7 +17,7 @@
 1. Task https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio-part2.md
 2. Screenshot:
 ![portfolio2](https://user-images.githubusercontent.com/82232416/151261379-bd80df99-8c3a-4a0a-96ef-40884fb6a1ee.jpg)
-3. Deploy: https://rolling-scopes-school.github.io/junproger-JSFEPRESCHOOL/portfolio/index.html
+3. Deploy: https://junproger.github.io/landing/
 4. Done 25.01.2022 / Deadline 25.01.2022
 5. Score: 75 / 75
  - [x] Вёрстка соответствует макету. Ширина экрана 768px +48
@@ -28,7 +28,7 @@
 1. Task https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio-part3.md
 2. Screenshot:
 ![portfolio3](https://user-images.githubusercontent.com/82232416/152110506-194d605f-0ac5-4adc-a0f1-021993082bdf.jpg)
-3. Deploy: https://rolling-scopes-school.github.io/junproger-JSFEPRESCHOOL/portfolio/index.html
+3. Deploy: https://junproger.github.io/landing/
 4. Done 01.02.2022 / Deadline 01.02.2022
 5. Score: 85 / 85
  - [x] Смена изображений в секции portfolio +25
@@ -46,7 +46,7 @@
 ![screen12](https://user-images.githubusercontent.com/82232416/153290897-0bd45697-57cc-47d5-a57c-bfc31b9a7f0b.jpg)
 5. Screenshot 1.3:
 ![screen13](https://user-images.githubusercontent.com/82232416/153290983-bd20c24b-97d2-4846-952c-92e8840b1f54.jpg)
-6. Deploy: https://rolling-scopes-school.github.io/junproger-JSFEPRESCHOOL/js30part1/
+6. Deploy: https://junproger.github.io/js30audio/
 7. Done 07.02.2022 / Deadline 08.02.2022
 8.  Score: 70 / 70
  - [x] Вёрстка +10
@@ -62,7 +62,7 @@
 ![screenshot1](https://user-images.githubusercontent.com/82232416/154367125-7d1b856d-357f-4d61-8b2d-7bb8c9fd5a88.jpg)
 3. Screenshot 2:
 ![screenshot2](https://user-images.githubusercontent.com/82232416/154367218-88272f91-c0b1-4182-9b0b-71929e80ae7b.jpg)
-4. Deploy: https://rolling-scopes-school.github.io/junproger-JSFEPRESCHOOL/jokes30js/
+4. Deploy: https://junproger.github.io/jokes30js/
 5. Done 13.02.2022 / Deadline 14.02.2022
 6.  Score: 70 / 70
  - [x] Вёрстка +10
@@ -87,7 +87,7 @@
 ![screenshot6](https://user-images.githubusercontent.com/82232416/155320680-3d13f7ba-5152-4191-858c-761a047ba102.jpg)
 7. Screenshot 6:
 ![screenshot0](https://user-images.githubusercontent.com/82232416/155320975-9dbca6c3-a627-4058-9566-7d10c9a4a0c5.jpg)
-8. Deploy: https://rolling-scopes-school.github.io/junproger-JSFEPRESCHOOL/js30game3/
+8. Deploy: https://junproger.github.io/js30game3/
 9. Done 21.02.2022 / Deadline 22.02.2022
 10.  Score: 70 / 70
  - [x] Вёрстка +10
